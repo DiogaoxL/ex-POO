@@ -1,6 +1,5 @@
 # ex-POO
 
-
 1)Classe Ponto: 
 
 Crie uma classe chamada 'Ponto' com atributos 'x' e 'y' (coordenadas) e métodos para definir e exibir esses valores. 
@@ -40,3 +39,13 @@ Crie uma classe 'Produto' com atributos como nome, preço e quantidade em estoqu
 10)Classe Empresa: 
 
 Crie uma classe 'Empresa' com atributos como nome, CNPJ e lista de funcionários. Adicione métodos para contratar, demitir e exibir informações sobre os funcionários. 
+
+
+Ex extras ( Nélio Alves ) :
+
+11 - Produto em estoque
+
+Fazer um programa para ler os dados de um produto em estoque (nome, preço e quantidade no estoque). Em seguida:
+Mostrar os dados do produto (nome, preço, quantidade no estoque, valor total no estoque)
+• Realizar uma entrada no estoque e mostrar novamente os dados do produto
+• Realizar uma saída no estoque e mostrar novamente os dados do produto
